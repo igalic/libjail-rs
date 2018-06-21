@@ -1,0 +1,13 @@
+var ALIASES = {};
+ALIASES['backtrace'] = {};
+ALIASES['backtrace_sys'] = {};
+ALIASES['bitflags'] = {};
+ALIASES['byteorder'] = {};
+ALIASES['cfg_if'] = {};
+ALIASES['failure'] = {};
+ALIASES['jail'] = {};
+ALIASES['libc'] = {};
+ALIASES['nix'] = {};
+ALIASES['rustc_demangle'] = {};
+ALIASES['sysctl'] = {};
+ALIASES['void'] = {};
